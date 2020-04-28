@@ -1,14 +1,14 @@
-ignore:
-  - 02*
-  - 03*
-  - 05*
-  - 07*
-  - 08*
-  - 09*
-  - 10*
-  - 11*
-  - 12*
-  - 14*
-  - 15*
-  - 16*
-  - 17*
+notebooks:
+  - index.ipynb
+  - 01*
+  - 04*
+  - 06*
+  - 13*
+  - extra_autodiff.ipynb
+  - extra_gradient_descent_comparison.ipynb
+  - math_differential_calculus.ipynb
+  - math_linear_algebra.ipynb
+  - tools_matplotlib.ipynb
+  - tools_numpy.ipynb
+  - tools_pandas.ipynb
+  - "work_in_progress/*"
