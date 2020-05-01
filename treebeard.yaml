@@ -3,7 +3,6 @@ notebooks:
   - 01*
   - 04*
   - 06*
-  - 13*
   - extra_autodiff.ipynb
   - extra_gradient_descent_comparison.ipynb
   - math_differential_calculus.ipynb
@@ -11,4 +10,3 @@ notebooks:
   - tools_matplotlib.ipynb
   - tools_numpy.ipynb
   - tools_pandas.ipynb
-  - "work_in_progress/*"
